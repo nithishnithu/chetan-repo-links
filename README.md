@@ -7,3 +7,4 @@ https://github.com/architectdevops7/docker-repo   [git docker]
 
 https://github.com/architectdevops7/java-application   [ jenkins  ]
 
+https://github.com/architectdevops7  [ docker ]
